@@ -1,0 +1,14 @@
+C:\Users\41765\source\repos\RestaurantManagementCSharp\RestaurantManagementCSharp\bin\Debug\RestaurantManagementCSharp.exe.config
+C:\Users\41765\source\repos\RestaurantManagementCSharp\RestaurantManagementCSharp\bin\Debug\RestaurantManagementCSharp.exe
+C:\Users\41765\source\repos\RestaurantManagementCSharp\RestaurantManagementCSharp\bin\Debug\RestaurantManagementCSharp.pdb
+C:\Users\41765\source\repos\RestaurantManagementCSharp\RestaurantManagementCSharp\obj\Debug\RestaurantManagementCSharp.csproj.AssemblyReference.cache
+C:\Users\41765\source\repos\RestaurantManagementCSharp\RestaurantManagementCSharp\obj\Debug\RestaurantManagementCSharp.csproj.CoreCompileInputs.cache
+C:\Users\41765\source\repos\RestaurantManagementCSharp\RestaurantManagementCSharp\obj\Debug\RestaurantManagementCSharp.exe
+C:\Users\41765\source\repos\RestaurantManagementCSharp\RestaurantManagementCSharp\obj\Debug\RestaurantManagementCSharp.pdb
+C:\Users\41765\Desktop\RestaurantManagementCSharp\RestaurantManagementCSharp\bin\Debug\RestaurantManagementCSharp.exe.config
+C:\Users\41765\Desktop\RestaurantManagementCSharp\RestaurantManagementCSharp\bin\Debug\RestaurantManagementCSharp.exe
+C:\Users\41765\Desktop\RestaurantManagementCSharp\RestaurantManagementCSharp\bin\Debug\RestaurantManagementCSharp.pdb
+C:\Users\41765\Desktop\RestaurantManagementCSharp\RestaurantManagementCSharp\obj\Debug\RestaurantManagementCSharp.csproj.AssemblyReference.cache
+C:\Users\41765\Desktop\RestaurantManagementCSharp\RestaurantManagementCSharp\obj\Debug\RestaurantManagementCSharp.csproj.CoreCompileInputs.cache
+C:\Users\41765\Desktop\RestaurantManagementCSharp\RestaurantManagementCSharp\obj\Debug\RestaurantManagementCSharp.exe
+C:\Users\41765\Desktop\RestaurantManagementCSharp\RestaurantManagementCSharp\obj\Debug\RestaurantManagementCSharp.pdb

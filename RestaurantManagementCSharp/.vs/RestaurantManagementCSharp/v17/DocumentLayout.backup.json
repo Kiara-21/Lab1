@@ -1,0 +1,140 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\41765\\Desktop\\RestaurantManagementCSharp\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{15988E2E-22CE-463C-BBCA-7289FC0A8FC5}|RestaurantManagementCSharp\\RestaurantManagementCSharp.csproj|c:\\users\\41765\\desktop\\restaurantmanagementcsharp\\restaurantmanagementcsharp\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{15988E2E-22CE-463C-BBCA-7289FC0A8FC5}|RestaurantManagementCSharp\\RestaurantManagementCSharp.csproj|solutionrelative:restaurantmanagementcsharp\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{15988E2E-22CE-463C-BBCA-7289FC0A8FC5}|RestaurantManagementCSharp\\RestaurantManagementCSharp.csproj|c:\\users\\41765\\desktop\\restaurantmanagementcsharp\\restaurantmanagementcsharp\\employee.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{15988E2E-22CE-463C-BBCA-7289FC0A8FC5}|RestaurantManagementCSharp\\RestaurantManagementCSharp.csproj|solutionrelative:restaurantmanagementcsharp\\employee.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{15988E2E-22CE-463C-BBCA-7289FC0A8FC5}|RestaurantManagementCSharp\\RestaurantManagementCSharp.csproj|c:\\users\\41765\\desktop\\restaurantmanagementcsharp\\restaurantmanagementcsharp\\menu.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{15988E2E-22CE-463C-BBCA-7289FC0A8FC5}|RestaurantManagementCSharp\\RestaurantManagementCSharp.csproj|solutionrelative:restaurantmanagementcsharp\\menu.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{15988E2E-22CE-463C-BBCA-7289FC0A8FC5}|RestaurantManagementCSharp\\RestaurantManagementCSharp.csproj|c:\\users\\41765\\desktop\\restaurantmanagementcsharp\\restaurantmanagementcsharp\\order.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{15988E2E-22CE-463C-BBCA-7289FC0A8FC5}|RestaurantManagementCSharp\\RestaurantManagementCSharp.csproj|solutionrelative:restaurantmanagementcsharp\\order.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{15988E2E-22CE-463C-BBCA-7289FC0A8FC5}|RestaurantManagementCSharp\\RestaurantManagementCSharp.csproj|c:\\users\\41765\\desktop\\restaurantmanagementcsharp\\restaurantmanagementcsharp\\position.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{15988E2E-22CE-463C-BBCA-7289FC0A8FC5}|RestaurantManagementCSharp\\RestaurantManagementCSharp.csproj|solutionrelative:restaurantmanagementcsharp\\position.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{15988E2E-22CE-463C-BBCA-7289FC0A8FC5}|RestaurantManagementCSharp\\RestaurantManagementCSharp.csproj|c:\\users\\41765\\desktop\\restaurantmanagementcsharp\\restaurantmanagementcsharp\\product.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{15988E2E-22CE-463C-BBCA-7289FC0A8FC5}|RestaurantManagementCSharp\\RestaurantManagementCSharp.csproj|solutionrelative:restaurantmanagementcsharp\\product.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{15988E2E-22CE-463C-BBCA-7289FC0A8FC5}|RestaurantManagementCSharp\\RestaurantManagementCSharp.csproj|c:\\users\\41765\\desktop\\restaurantmanagementcsharp\\restaurantmanagementcsharp\\supplier.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{15988E2E-22CE-463C-BBCA-7289FC0A8FC5}|RestaurantManagementCSharp\\RestaurantManagementCSharp.csproj|solutionrelative:restaurantmanagementcsharp\\supplier.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\41765\\Desktop\\RestaurantManagementCSharp\\RestaurantManagementCSharp\\Program.cs",
+              "RelativeDocumentMoniker": "RestaurantManagementCSharp\\Program.cs",
+              "ToolTip": "C:\\Users\\41765\\Desktop\\RestaurantManagementCSharp\\RestaurantManagementCSharp\\Program.cs",
+              "RelativeToolTip": "RestaurantManagementCSharp\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABQAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-28T17:02:32.996Z",
+              "IsPinned": true,
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "Supplier.cs",
+              "DocumentMoniker": "C:\\Users\\41765\\Desktop\\RestaurantManagementCSharp\\RestaurantManagementCSharp\\Supplier.cs",
+              "RelativeDocumentMoniker": "RestaurantManagementCSharp\\Supplier.cs",
+              "ToolTip": "C:\\Users\\41765\\Desktop\\RestaurantManagementCSharp\\RestaurantManagementCSharp\\Supplier.cs",
+              "RelativeToolTip": "RestaurantManagementCSharp\\Supplier.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAMAAAAkAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-28T21:09:26.915Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "Product.cs",
+              "DocumentMoniker": "C:\\Users\\41765\\Desktop\\RestaurantManagementCSharp\\RestaurantManagementCSharp\\Product.cs",
+              "RelativeDocumentMoniker": "RestaurantManagementCSharp\\Product.cs",
+              "ToolTip": "C:\\Users\\41765\\Desktop\\RestaurantManagementCSharp\\RestaurantManagementCSharp\\Product.cs",
+              "RelativeToolTip": "RestaurantManagementCSharp\\Product.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAMAAAAkAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-28T21:09:20.174Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "Position.cs",
+              "DocumentMoniker": "C:\\Users\\41765\\Desktop\\RestaurantManagementCSharp\\RestaurantManagementCSharp\\Position.cs",
+              "RelativeDocumentMoniker": "RestaurantManagementCSharp\\Position.cs",
+              "ToolTip": "C:\\Users\\41765\\Desktop\\RestaurantManagementCSharp\\RestaurantManagementCSharp\\Position.cs",
+              "RelativeToolTip": "RestaurantManagementCSharp\\Position.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAMAAAAkAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-28T21:09:15.288Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Order.cs",
+              "DocumentMoniker": "C:\\Users\\41765\\Desktop\\RestaurantManagementCSharp\\RestaurantManagementCSharp\\Order.cs",
+              "RelativeDocumentMoniker": "RestaurantManagementCSharp\\Order.cs",
+              "ToolTip": "C:\\Users\\41765\\Desktop\\RestaurantManagementCSharp\\RestaurantManagementCSharp\\Order.cs",
+              "RelativeToolTip": "RestaurantManagementCSharp\\Order.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAMAAAAkAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-28T21:09:03.505Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Menu.cs",
+              "DocumentMoniker": "C:\\Users\\41765\\Desktop\\RestaurantManagementCSharp\\RestaurantManagementCSharp\\Menu.cs",
+              "RelativeDocumentMoniker": "RestaurantManagementCSharp\\Menu.cs",
+              "ToolTip": "C:\\Users\\41765\\Desktop\\RestaurantManagementCSharp\\RestaurantManagementCSharp\\Menu.cs",
+              "RelativeToolTip": "RestaurantManagementCSharp\\Menu.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAMAAAAkAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-28T21:08:46.394Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Employee.cs",
+              "DocumentMoniker": "C:\\Users\\41765\\Desktop\\RestaurantManagementCSharp\\RestaurantManagementCSharp\\Employee.cs",
+              "RelativeDocumentMoniker": "RestaurantManagementCSharp\\Employee.cs",
+              "ToolTip": "C:\\Users\\41765\\Desktop\\RestaurantManagementCSharp\\RestaurantManagementCSharp\\Employee.cs",
+              "RelativeToolTip": "RestaurantManagementCSharp\\Employee.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAMAAAAkAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-28T17:03:01.359Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
